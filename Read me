@@ -15,3 +15,6 @@ pip2 install mechanize
 git clone https://github.com/sanwalhacker-jigriihacker/sanwal.git
 cd sanwal
 python2 sanwal.py
+
+User dhamal
+Pass sheby
